@@ -1,0 +1,65 @@
+body{
+    margin:auto;
+    width:420px;
+    background-color: rgb(220, 227, 231);
+    font-family: monospace;
+}
+
+h2{
+    text-align: left;
+    margin-left: 20px;
+}
+
+.fir{
+    list-style-image: url('tag.png');
+}
+
+p{
+    margin-left: 15px;
+    position:relative;
+    width:200px;
+    bottom:5px;
+}
+
+.blue{
+    background-color: rgb(123, 183, 194);
+    padding-left: 20px;
+    height:40px;
+    margin-left: -20px;
+    display: flex;
+}
+
+.done{
+    background-color: rgb(198, 203, 206);
+    padding-left: 20px;
+    height:40px;
+    margin-left: -20px;
+    display: flex;
+}
+
+.sky{
+    background-color: rgb(136, 204, 216);
+    padding-left: 20px;
+    height:40px;
+    margin-left: -20px;
+    display: flex;
+}
+
+.b{
+    position:relative;
+    left:20px;
+}
+
+.red{
+    color:rgb(170, 42, 42);
+    text-decoration: none;
+}
+
+.do{
+    margin-left: -40px;
+    list-style-image: url('check.png');
+}
+
+.strike{
+    text-decoration: line-through;
+}

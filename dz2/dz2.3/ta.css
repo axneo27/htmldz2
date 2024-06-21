@@ -1,0 +1,26 @@
+body{
+    margin-left: 300px;
+    width:65%;
+    background-color: rgb(216, 222, 224);
+    line-height: 1.4;
+}
+
+h1{
+    font-family: monospace;
+}
+
+.fo{
+    margin-left: 0;
+}
+
+.examp{
+    color:rgb(136, 141, 141)
+}
+
+.purp{
+    color:rgb(79, 32, 174);
+}
+
+dd{
+    margin-left: 0;
+}
